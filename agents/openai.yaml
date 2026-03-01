@@ -1,0 +1,4 @@
+interface:
+  display_name: "Groebner Sistemas Ecuaciones v2"
+  short_description: "Flujo academico-operativo para sistemas polinomiales con Groebner (OSCAR-first) y puente numerico controlado"
+  default_prompt: "Analiza este ProblemSpec y resuelve con arbol de decision explicito, RunSpec, validacion algebraica y ReportSpec con citas."
